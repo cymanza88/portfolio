@@ -1,0 +1,39 @@
+header{
+    font-size: 100px;
+    color:black;
+    padding:50px;
+}
+.sitelogo.jpg{
+    border-radius: 50px;
+  
+}
+.body{
+    background-color: burlywood;
+}
+.First{
+    background-color: burlywood;
+    color:black;
+    padding:20px;
+}
+#PORTFOLIO{
+    height: 40px;
+}
+.cy.jpg{
+    float:left;
+    margin-left: 0px;
+    margin-top:0px;
+}
+.content{
+   border:100px;
+}
+
+#ABOUT{
+    height: 40px;
+}
+#CONTACT{
+    height: 40px;
+}
+html,body{
+    height:100;
+    background-image: url("clouds.jpg");
+}
